@@ -28,8 +28,8 @@ import co.cogent.flowershop.userenter.model.DefaultUserEntry;
 
 /**
  * In order to perform the cost and bundle break down calculation 
- * As the flower manager
- * operator, I like to able to accept the user enter
+ * As the flower shop manager 
+ * I like to able to accept the user enter
  */
 public class DefaultUserEnterFactoryTest {
 
